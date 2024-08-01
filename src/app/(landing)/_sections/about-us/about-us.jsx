@@ -31,7 +31,7 @@ export default function AboutUs() {
             Kami menerima siapapun yang ingin belajar bersama kami dalam
             mengasah kemampuan softskill dibidang IT hingga siap untuk dunia
             kerja
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad at labore, earum quam autem recusandae, alias aperiam in ipsum quod doloribus eaque praesentium facere nam asperiores mollitia distinctio voluptatum voluptatibus, eos optio sed expedita! Dolore pariatur culpa quaerat voluptatem suscipit! Lorem ipsum, dolor sit amet consectetur 
+           
           </p>
         </div>
       </div>

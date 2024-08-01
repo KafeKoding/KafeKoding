@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from './hero/hero'
+import Hero from './_sections/hero/hero'
 
 export default function Page() {
   return (

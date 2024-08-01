@@ -13,7 +13,5 @@ import Rectangle7 from './Rectangle 54.png'
 import LogoHTML from './HTML 1.png'
 import LogoPHP from './PHP 1.png'
 import LogoLAravel from './Laravel 1.png'
-import BgSlide from './bg-slide.png'
-import BgVector from './Vector 18.png'
 import LogoMsql from './kisspng-mysql-logo-database-join-portable-network-graphics-lee-qixian-about-me-5b632d94056496 1.png'
-export{LogoKK,LogoHero,Rectangle1,Rectangle2,Rectangle3,Rectangle4,PlatformGroup1,PlatformGroup2,PlatformGroup3,Rectangle5,Rectangle6,Rectangle7,LogoHTML,LogoLAravel,LogoMsql,LogoPHP,BgSlide,BgVector}
+export{LogoKK,LogoHero,Rectangle1,Rectangle2,Rectangle3,Rectangle4,PlatformGroup1,PlatformGroup2,PlatformGroup3,Rectangle5,Rectangle6,Rectangle7,LogoHTML,LogoLAravel,LogoMsql,LogoPHP}
